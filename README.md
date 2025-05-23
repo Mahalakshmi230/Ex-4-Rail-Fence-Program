@@ -73,7 +73,7 @@ return 0;
 }
 ```
 # OUTPUT
-![Screenshot 2025-03-17 161358](https://github.com/user-attachments/assets/547a2b4d-b6d8-41c6-8759-30dc9aa48fce)
+![Screenshot 2025-03-17 161358](https://github.com/user-attachments/assets/40ca3242-c3b1-4223-8be4-44bd74dd48a0)
 
 # RESULT
 Thus the program was executed successfully.
